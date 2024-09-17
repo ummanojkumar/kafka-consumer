@@ -1,4 +1,4 @@
-package com.manoj.kafka_consumer;
+package com.manoj;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
